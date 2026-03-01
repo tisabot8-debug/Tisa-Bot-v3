@@ -24,7 +24,7 @@ module.exports = {
                 name: "hinata",
                 aliases: ["baby", "bby", "bbu", "jan", "janu", "wifey", "bot"],
                 version: "1.8",
-                author: "MahMUD",
+                author: "𝐄𝐯𝐚𝐧 𝐂𝐡𝐚𝐮𝐝𝐡𝐚𝐫𝐲",
                 countDown: 2,
                 role: 0,
                 description: {
@@ -168,7 +168,7 @@ module.exports = {
                         api.setMessageReaction("🪽", event.messageID, () => {}, true);
                         const randomReplies = [
                                 "babu khuda lagse🥺",
-                                "Hop beda😾,Boss বল boss😼",
+                                "Hop beda𝐄𝐯𝐚𝐧 𝐂𝐡𝐚𝐮𝐝𝐡𝐚𝐫𝐲 কে দুলাভাই ডাক😼",
                                 "আমাকে ডাকলে ,আমি কিন্তূ কিস করে দেবো😘 ",                      
                                 "naw amr boss k message daw m.me/mahmud0x7",
                                 "গোলাপ ফুল এর জায়গায় আমি দিলাম তোমায় মেসেজ",
